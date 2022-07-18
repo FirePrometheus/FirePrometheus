@@ -1,4 +1,4 @@
-- 👋 Hello there! Hope you're doing well, I’m Pablo Cortés Arias, nicknamed @FirePrometheus
+- 👋 Hello there! Hope you're doing well, I’m Pablo, nicknamed @FirePrometheus
 - 👀 I’m interested in Entrepreneurship, Innovation, Circular Economy and Enviromental Activism.
 - 🌱 I’m currently learning Front End JavaScript.
 - 💞️ I’m looking to collaborate on Technology-based projects with an environmental solution orientation.
